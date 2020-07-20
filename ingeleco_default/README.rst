@@ -8,9 +8,9 @@
    :target: https://www.gnu.org/licenses/agpl
    :alt: License: AGPL-3
 
-====
-EPSO
-====
+========
+INGELECO
+========
 
 
 |company_logo|

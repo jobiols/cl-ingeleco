@@ -19,12 +19,12 @@
 ##############################################################################
 
 {
-    'name': 'epso',
+    'name': 'Ingeleco',
     'version': '11.0.0.0.0',
     'category': 'Tools',
-    'summary': "Epso project module",
+    'summary': "Ingeleco project module",
     'author': "jeo Software",
-    'website': 'http://github.com/jobiols/cl-epso',
+    'website': 'http://github.com/jobiols/cl-ingeleco',
     'license': 'AGPL-3',
     'depends': [
     ],
@@ -53,7 +53,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/jobiols/cl-epso.git',
+        'https://github.com/jobiols/cl-ingeleco.git',
     ],
 
     # list of images to use in the form 'name image-url'
