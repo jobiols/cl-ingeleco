@@ -68,6 +68,7 @@
         'https://github.com/ingadhoc/product.git',
         'https://github.com/ingadhoc/account-invoicing.git',
         'https://github.com/ingadhoc/argentina-sale.git',
+        'https://github.com/ingadhoc/stock.git',
 
         'https://github.com/oca/partner-contact.git',
         'https://github.com/oca/web.git',
